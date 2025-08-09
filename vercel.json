@@ -17,9 +17,9 @@
     }
   ],
   "env": {
-    "SUPABASE_URL": "@supabase_url",
-    "SUPABASE_KEY": "@supabase_key",
-    "BOT_TOKEN": "@bot_token",
+    "SUPABASE_URL": "https://igigbigysthuduxnllbo.supabase.co",
+    "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlnaWdiaWd5c3RodWR1eG5sbGJvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ3MTMxMzEsImV4cCI6MjA3MDI4OTEzMX0.-1SsgfQUn-2SegEDsY5OHZOPHT_OSlbF33sfHD9Ezko",
+    "BOT_TOKEN": "7865337483:AAE5qmqcYSaxhQZtpRUavv_1uoOSVzPl_-A",
     "WEBHOOK_URL": "@webhook_url"
   },
   "functions": {
